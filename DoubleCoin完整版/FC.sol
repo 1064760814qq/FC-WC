@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "./ERC20.sol";
 
-
+//test
 contract FC is ERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
